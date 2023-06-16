@@ -274,28 +274,28 @@ img {
   margin-block: 10px;
 }
 
-*/ #portfolioContent a {
+*/ #SanatoriyaTog a {
   text-decoration: none;
   color: black;
 }
 
-#portfolioContent .row {
+#SanatoriyaTog .row {
   height: 350px;
   overflow: hidden;
 }
 
-#portfolioContent .row div {
+#SanatoriyaTog .row div {
   overflow: hidden;
 }
 
-#portfolioContent .row div span {
+#SanatoriyaTog .row div span {
   text-decoration: none;
   position: relative;
   font-size: x-large;
   display: inline-block;
 }
 
-#portfolioContent .row div p span:after {
+#SanatoriyaTog .row div p span:after {
   content: '';
   position: absolute;
   bottom: 0;
@@ -304,7 +304,7 @@ img {
   transition: 0.4s;
 }
 
-#portfolioContent .row div p span:hover:after {
+#SanatoriyaTog .row div p span:hover:after {
   width: 100%;
 }
 
